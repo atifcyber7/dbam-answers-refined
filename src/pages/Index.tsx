@@ -9,7 +9,7 @@ const Index = () => {
       <div className="bg-gradient-to-r from-primary to-academic py-16 px-6">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl font-bold text-primary-foreground mb-4">
-            DBAM Assignment 01
+            DBAM Assignment 01 
           </h1>
           <p className="text-primary-foreground/90 text-xl">
             Introduction to Dynamic Web Content
