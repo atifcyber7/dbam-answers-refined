@@ -31,10 +31,7 @@ const Index = () => {
               <Award className="w-5 h-5 mr-2" />
               Academic Assignment
             </Badge>
-            <Badge variant="secondary" className="text-lg px-6 py-2 bg-white/20 backdrop-blur-sm border-white/30 text-white hover:bg-white/30">
-              <Users className="w-5 h-5 mr-2" />
-              Group Submission
-            </Badge>
+           
           </div>
 
           {/* Student Cards */}
@@ -44,11 +41,7 @@ const Index = () => {
               rollNumber="215" 
               delay="0.6s"
             />
-            <StudentCard 
-              name="Rahim" 
-              rollNumber="301" 
-              delay="0.8s"
-            />
+            
           </div>
         </div>
       </div>
