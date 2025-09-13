@@ -33,8 +33,18 @@ All colors MUST be HSL.
     --academic-foreground: 0 0% 100%;
     --academic-light: 210 40% 95%;
 
+    --student: 280 100% 60%;
+    --student-foreground: 0 0% 100%;
+    --student-light: 280 30% 96%;
+
+    --success: 142 76% 36%;
+    --success-foreground: 0 0% 100%;
+
     --gradient-academic: linear-gradient(135deg, hsl(220 90% 56%), hsl(210 80% 45%));
+    --gradient-student: linear-gradient(135deg, hsl(280 100% 60%), hsl(220 90% 56%));
+    --gradient-hero: linear-gradient(135deg, hsl(220 90% 56%), hsl(280 100% 60%), hsl(210 80% 45%));
     --shadow-academic: 0 10px 30px -10px hsl(220 90% 56% / 0.3);
+    --shadow-student: 0 10px 30px -10px hsl(280 100% 60% / 0.3);
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
