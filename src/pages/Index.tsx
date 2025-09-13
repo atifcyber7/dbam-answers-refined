@@ -214,7 +214,7 @@ const Index = () => {
           </div>
           <h3 className="text-2xl font-bold text-academic mb-2">Assignment Completed</h3>
           <p className="text-muted-foreground">
-            Submitted by <strong className="text-student">Maroof Raees (215)</strong> and <strong className="text-student">Rahim (301)</strong>
+            Submitted by <strong className="text-student">Maroof Raees (215)</strong>
           </p>
           <p className="text-sm text-muted-foreground mt-2">DBAM - Database Application Management</p>
         </div>
